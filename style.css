@@ -1,0 +1,186 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+}
+
+.container {
+    width: 1200;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header{
+    padding: 0px 10px;
+}
+
+.header_logo {
+    width: 150px;
+    margin-left: 10%;
+}
+
+.header_nav {
+    width: 500px;
+    margin-left: 25%;
+    margin-top: 3.5%;
+}
+
+.header_nav a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    margin-left: 40px;
+}
+
+
+.uppertxt_one img{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+.uppertxt_two {
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 5%;
+    font-size: large;
+}
+
+h1{
+    margin-left: 22%;
+}
+
+.uppertxt_two a{
+    text-decoration: none;
+    margin-left: 30%;
+    margin-top: 7%;
+    padding: 10px 15px;
+    color: white;
+    background-color: blue;
+}
+
+.uppertxt_two a:hover{
+    background-color: black;
+}
+
+.midtxt{
+    margin-top: 10%;
+}
+
+.midtxt_one img{
+    width: 60%;
+    margin-left: 50px;
+}
+
+
+.midtxt_two {
+     width: 40%;
+     font-size: medium;
+}
+
+.zidtxt_one {
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+.explorer{
+    margin-top: 10%;
+}
+
+.explorer_one{
+    width: 28%;
+    margin-left: 10%;
+    font-size: large;
+}
+
+.explorer_two{
+    width: 20%;
+    margin-left: 10%;
+    font-size: large;
+}
+
+.explorer_three{
+    width: 20%;
+    font-size: large;
+}
+
+
+.lrgtxt{
+    margin-top: 10%;
+}
+
+.lrgtxt_one img{
+    width: 65%;
+    margin-left: 60px;
+}
+
+
+.lrgtxt_two {
+    margin-top: 8%;
+     width: 35%;
+     font-size: small;
+}
+
+.lwrtxt_two {
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 5%;
+    font-size: large;
+}
+
+h3{
+    margin-left: 26%;
+}
+
+.lwrtxt_two a{
+    text-decoration: none;
+    margin-left: 30%;
+    margin-top: 7%;
+    padding: 10px 15px;
+    color: white;
+    background-color: blue;
+}
+
+.lwrtxt_two a:hover{
+    background-color: black;
+}
+
+.footer{
+    margin-top: 8%;
+}
+
+.footer_one img{
+    width: 150%;
+}
+
+.footer_one{
+    width: 15%;
+    margin-left: 3%;
+}
+
+
+.footer_two{
+    width: 9%;
+    margin-left: 20%;
+}
+
+.footer_three{
+    width: 9%;
+    margin-left: 10%;
+}
+
+.footer_four{
+    width: 9%;
+    margin-left: 10%;
+}
+
+.ending_box{
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    color: blueviolet;
+    font-size: x-small;
+}
